@@ -3,6 +3,8 @@
 **2nd Place** — Kaggle-style ML competition | Applied Predictive Analytics, Macquarie University
 
 A full end-to-end machine learning pipeline to predict Airbnb listing prices across Melbourne using property, host, location, review, and amenity data. The final submission used a stacking ensemble of seven models, achieving a Kaggle MAE of **109.815** on the final leaderboard.
+Team: BUSA8001 Scikit Squad
+Link: https://www.kaggle.com/competitions/asba-predictive-analytics-competition/leaderboard
 
 ---
 
