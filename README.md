@@ -129,7 +129,7 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost optuna matplotli
 
 3. Run the notebook top to bottom:
 ```bash
-jupyter notebook Group-Project_final.ipynb
+jupyter notebook airbnb_melbourne_price_prediction.ipynb.ipynb
 ```
 
 Predictions will be saved as `stacked_submission.csv` in the project root.
